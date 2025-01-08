@@ -108,6 +108,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/281677160/agent/main/cla
 
 <details>
 <summary>🔻一键BBR安装🔻</summary>
+<summary>🔻是否停止删除内核的时候选  NO🔻</summary>
 <br>
 
 ```yaml
